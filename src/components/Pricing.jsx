@@ -1,8 +1,8 @@
-import Pricebg from "../assets/img/Pricebg.svg"
+
 import Basic from "../assets/img/Basic.svg"
 import Professional from "../assets/img/Professional.svg"
 import Enterprise from "../assets/img/Enterprise.svg"
-import Question from "../assets/img/Questions.svg"
+
 import { AiOutlineRight } from "react-icons/ai"
 const Pricing = () => {
     return (

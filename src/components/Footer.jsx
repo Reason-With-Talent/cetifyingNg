@@ -37,7 +37,7 @@ const Footer = () => {
                 <div className="border-b-2 border-[#FFFFFF] mt-[50px]"></div>
                 <section className="mt-[20px] md:flex md:justify-between grid justify-center">
                     <div className="md:pl-[20px]"><img src={logo} /></div>
-                    <div className="flex text-[#FFFFFF] text-[20px] md:mt-[12px] mt-[10px] flex justify-between">
+                    <div className="flex text-[#FFFFFF] text-[20px] md:mt-[12px] mt-[10px] justify-between">
                         <div className="pr-[20px]"><a href="https://www.twitter.com"><BsTwitter /></a></div>
                         <div className="pr-[20px]"> <a href="https://www.whatsapp.com"><BsWhatsapp /></a></div>
                         <div className="pr-[20px]"><a href="https://www.facebook.com"><AiFillFacebook /></a></div>
